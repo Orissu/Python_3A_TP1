@@ -2,7 +2,7 @@
 @Bastien.Rossiaud
 bastien.rossiaud@cpe.fr
 19/09/2024
-to do :retaffer matrices et hanoi et finir le tp(tricolore et)
+to do :retaffer matrices et hanoi et finir le tp(tricolore etc)
 """
 
 def bissextile(year):
